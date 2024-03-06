@@ -1,10 +1,10 @@
 {
-	 "data": [
-        {
-        	"type": "shop",
-            "phone": "09123123",
-            "address": "မရှင်းရသေး",
-            "photo": "http",
-        }
-    ]
+   "data":[
+      {
+         "type":"shop",
+         "phone":"09123123",
+         "address":"မရှင်းရသေး",
+         "photo":"http"
+      }
+   ]
 }
