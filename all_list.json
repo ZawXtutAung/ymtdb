@@ -1,0 +1,10 @@
+{
+	"data":[
+		{
+			"shop":["CarService","Store","PetShop","DrugStore","Beauty&Hair","Hotel","Mobile"]
+		},
+		{
+			"emergency":["fire","Police","Hospital","Help","Blood"]
+		}
+	]
+}
