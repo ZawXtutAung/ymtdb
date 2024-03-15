@@ -3,7 +3,7 @@
 	{
 	   "icon":"https://www.csbsju.edu/images/CHP/CSBSJU%20Counseling/crisis.jpg",
 	   "name":"fire",
-	   "Fire":[
+	   "item":[
 		{
 			"image":"https://www.csbsju.edu/images/CHP/CSBSJU%20Counseling/crisis.jpg",
 		   "name":"yamethin",
@@ -19,7 +19,7 @@
 	{
 	   "icon":"https://www.csbsju.edu/images/CHP/CSBSJU%20Counseling/crisis.jpg",
 	   "name":"Polic",
-	   "Polic":[
+	   "item":[
 		{
 			  "image":"https://www.csbsju.edu/images/CHP/CSBSJU%20Counseling/crisis.jpg",
 		   "name":"yamethin",
@@ -35,7 +35,7 @@
 	{
 	   "icon":"https://www.csbsju.edu/images/CHP/CSBSJU%20Counseling/crisis.jpg",
 	   "name":"Hospital",
-	   "Hospital":[
+	   "item":[
 		{
 			  "image":"https://www.csbsju.edu/images/CHP/CSBSJU%20Counseling/crisis.jpg",
 		   "name":"yamethin",
@@ -51,7 +51,7 @@
 	{
 	   "icon":"https://www.csbsju.edu/images/CHP/CSBSJU%20Counseling/crisis.jpg",
 	   "name":"Help",
-		"Help":[
+		"item":[
 		   {
 			  "image":"https://www.csbsju.edu/images/CHP/CSBSJU%20Counseling/crisis.jpg",
 			  "name":"yamethin",
