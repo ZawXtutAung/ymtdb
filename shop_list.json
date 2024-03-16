@@ -55,39 +55,58 @@
 		         ]
 	   },
 	   {
-		  "icon":"https://toppng.com/uploads/preview/valustay-hotel-icon-hotel-icon-115534594796cetfdm1wg.png",
+		  "icon":"https://i.pinimg.com/564x/b3/01/29/b30129cb7a9f2973083b90c5340ccdab.jpg",
 		  "name":"Hotel",
 		  "item":[
 			{
 				"name":"AAHotel",
 				"phone":"09123123",
 				"address":"yamentin",
-				"photo":"https://i.pinimg.com/564x/8b/af/28/8baf2899263e3fd6608d0d40a63833e4.jpg"	 
+				"photo":"https://i.pinimg.com/564x/b3/01/29/b30129cb7a9f2973083b90c5340ccdab.jpg"	 
 			},
 			{
 				"name":"BBHotel",
 				"phone":"09123123",
 				"address":"yamentin",
-				"photo":"https://i.pinimg.com/564x/8b/af/28/8baf2899263e3fd6608d0d40a63833e4.jpg"	 
+				"photo":"https://i.pinimg.com/564x/b3/01/29/b30129cb7a9f2973083b90c5340ccdab.jpg"	 
 		    }
 		         ]
 		  
 	   },
 	   {
-		"icon":"https://toppng.com/uploads/preview/valustay-hotel-icon-hotel-icon-115534594796cetfdm1wg.png",
+		"icon":"https://i.pinimg.com/564x/1c/e0/11/1ce011cfd3b4140cbe8932c65d55157c.jpg",
 		"name":"Store",
 		"item":[
 		  {
 			  "name":"AAStore",
 			  "phone":"09123123",
 			  "address":"yamentin",
-			  "photo":"https://i.pinimg.com/564x/8b/af/28/8baf2899263e3fd6608d0d40a63833e4.jpg"	 
+			  "photo":"https://i.pinimg.com/564x/1c/e0/11/1ce011cfd3b4140cbe8932c65d55157c.jpg"	 
 		  },
 		  {
 			  "name":"BBStore",
 			  "phone":"09123123",
 			  "address":"yamentin",
-			  "photo":"https://i.pinimg.com/564x/8b/af/28/8baf2899263e3fd6608d0d40a63833e4.jpg"	 
+			  "photo":"https://i.pinimg.com/564x/1c/e0/11/1ce011cfd3b4140cbe8932c65d55157c.jpg"	 
+		  }
+			   ]
+		
+	 },
+	 {
+		"icon":"https://i.pinimg.com/564x/ec/c6/4b/ecc64b742cfb907f60b1d5d2b3aec91a.jpg",
+		"name":"Pet Shop",
+		"item":[
+		  {
+			  "name":"AAStore",
+			  "phone":"09123123",
+			  "address":"yamentin",
+			  "photo":"https://i.pinimg.com/564x/ec/c6/4b/ecc64b742cfb907f60b1d5d2b3aec91a.jpg"	 
+		  },
+		  {
+			  "name":"BBStore",
+			  "phone":"09123123",
+			  "address":"yamentin",
+			  "photo":"https://i.pinimg.com/564x/ec/c6/4b/ecc64b742cfb907f60b1d5d2b3aec91a.jpg"	 
 		  }
 			   ]
 		
