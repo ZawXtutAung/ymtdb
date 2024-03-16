@@ -1,6 +1,4 @@
-{
-	"data":[
-		{
+{		
 			"title":"MCodey It Solution",
 			"image":"https://github.com/ZawXtutAung/ymtdb/blob/master/src/logo.png",
 			"icon":"https://github.com/ZawXtutAung/ymtdb/blob/master/src/icons.jpg",
@@ -12,8 +10,5 @@
 			"email":"contact@mcodey.com",
 			"gmail":"mcodeyitsolution@gmail.com",
 			"facebook":"https://www.facebook.com/mmcodey",
-			"rights":"© 2024 MCodey. All Rights Reserved."
-	     }
-		
-	       ]
+			"rights":"© 2024 MCodey. All Rights Reserved."	       
 }
