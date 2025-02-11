@@ -1,90 +1,93 @@
-[
-   {
-      "_id":"6745a79aea10fbbdcc2e9213",
-      "checkoutType":"direct",
-      "name":"Visa Service",
-      "icon":"https://mingalar.mcodey.com/static/images/c01be7b49539249c9116.png",
-      "description":"package",
-      "termsCondition":"<p>visa and passport service</p>",
-      "createdAt":"2024-11-26T10:48:58.049Z",
-      "updatedAt":"2024-12-19T06:04:50.410Z",
-      "__v":0
-   },
-   {
-      "_id":"6745ae74ea10fbbdcc2e93a1",
-      "checkoutType":"direct",
-      "name":"Car Rental",
-      "icon":"https://mingalar.mcodey.com/static/images/f5067447fbd0a6f97901.png",
-      "description":"Car Service",
-      "termsCondition":"<p>Car Service</p>",
-      "createdAt":"2024-11-26T11:18:12.696Z",
-      "updatedAt":"2024-12-19T06:04:38.015Z",
-      "__v":0
-   },
-   {
-      "_id":"67486dd12eb302396c60c55d",
-      "checkoutType":"inquery",
-      "name":"School",
-      "icon":"https://mingalar.mcodey.com/static/images/7d0b24f8809386773e18.png",
-      "description":"profile",
-      "termsCondition":"<p>international school</p>",
-      "createdAt":"2024-11-28T13:19:13.529Z",
-      "updatedAt":"2024-12-03T14:35:01.880Z",
-      "__v":0
-   },
-   {
-      "_id":"674878b92eb302396c60c85e",
-      "checkoutType":"inquery",
-      "name":"University",
-      "icon":"https://mingalar.mcodey.com/static/images/4873eced2164d93fca24.png",
-      "description":"profile",
-      "termsCondition":"<p>University&nbsp;</p>",
-      "createdAt":"2024-11-28T14:05:45.082Z",
-      "updatedAt":"2024-12-19T06:04:20.661Z",
-      "__v":0
-   },
-   {
-      "_id":"6748b96d2eb302396c60d03e",
-      "checkoutType":"option",
-      "name":"Hospital",
-      "icon":"https://mingalar.mcodey.com/static/images/a3483e6b6565c55b4eff.png",
-      "description":"profile",
-      "termsCondition":"<p>ok</p>",
-      "createdAt":"2024-11-28T18:41:49.812Z",
-      "updatedAt":"2024-12-29T09:51:20.387Z",
-      "__v":0
-   },
-   {
-      "_id":"6748bdff2eb302396c60d08b",
-      "checkoutType":"option",
-      "name":"Aesthetic",
-      "icon":"https://mingalar.mcodey.com/static/images/0c2fa06098075f6a0441.png",
-      "description":"profile",
-      "termsCondition":"<p>Aesthetic clinic in Bangkok</p>",
-      "createdAt":"2024-11-28T19:01:19.589Z",
-      "updatedAt":"2024-12-29T09:51:11.672Z",
-      "__v":0
-   },
-   {
-      "_id":"6748e0da2eb302396c60d0c3",
-      "checkoutType":"direct",
-      "name":" Real Estate",
-      "icon":"https://mingalar.mcodey.com/static/images/ae32fb7fbc95edb4c702.png",
-      "description":" Real Estate",
-      "termsCondition":"<p>&nbsp;Real Estate</p>",
-      "createdAt":"2024-11-28T21:30:02.039Z",
-      "updatedAt":"2024-12-19T06:02:29.741Z",
-      "__v":0
-   },
-   {
-      "_id":"6748e1692eb302396c60d0d2",
-      "checkoutType":"inquery",
-      "name":"Jobs",
-      "icon":"https://mingalar.mcodey.com/static/images/af5e056eb614b8e76403.png",
-      "description":"profile",
-      "termsCondition":"<p>Job Opportunity&nbsp;</p>",
-      "createdAt":"2024-11-28T21:32:25.457Z",
-      "updatedAt":"2025-01-27T22:01:00.983Z",
-      "__v":0
-   }
-]
+{
+   "success":true,
+   "data":[
+      {
+         "_id":"6745a79aea10fbbdcc2e9213",
+         "checkoutType":"direct",
+         "name":"Visa Service",
+         "icon":"https://mingalar.mcodey.com/static/images/c01be7b49539249c9116.png",
+         "description":"package",
+         "termsCondition":"<p>visa and passport service</p>",
+         "createdAt":"2024-11-26T10:48:58.049Z",
+         "updatedAt":"2024-12-19T06:04:50.410Z",
+         "__v":0
+      },
+      {
+         "_id":"6745ae74ea10fbbdcc2e93a1",
+         "checkoutType":"direct",
+         "name":"Car Rental",
+         "icon":"https://mingalar.mcodey.com/static/images/f5067447fbd0a6f97901.png",
+         "description":"Car Service",
+         "termsCondition":"<p>Car Service</p>",
+         "createdAt":"2024-11-26T11:18:12.696Z",
+         "updatedAt":"2024-12-19T06:04:38.015Z",
+         "__v":0
+      },
+      {
+         "_id":"67486dd12eb302396c60c55d",
+         "checkoutType":"inquery",
+         "name":"School",
+         "icon":"https://mingalar.mcodey.com/static/images/7d0b24f8809386773e18.png",
+         "description":"profile",
+         "termsCondition":"<p>international school</p>",
+         "createdAt":"2024-11-28T13:19:13.529Z",
+         "updatedAt":"2024-12-03T14:35:01.880Z",
+         "__v":0
+      },
+      {
+         "_id":"674878b92eb302396c60c85e",
+         "checkoutType":"inquery",
+         "name":"University",
+         "icon":"https://mingalar.mcodey.com/static/images/4873eced2164d93fca24.png",
+         "description":"profile",
+         "termsCondition":"<p>University&nbsp;</p>",
+         "createdAt":"2024-11-28T14:05:45.082Z",
+         "updatedAt":"2024-12-19T06:04:20.661Z",
+         "__v":0
+      },
+      {
+         "_id":"6748b96d2eb302396c60d03e",
+         "checkoutType":"option",
+         "name":"Hospital",
+         "icon":"https://mingalar.mcodey.com/static/images/a3483e6b6565c55b4eff.png",
+         "description":"profile",
+         "termsCondition":"<p>ok</p>",
+         "createdAt":"2024-11-28T18:41:49.812Z",
+         "updatedAt":"2024-12-29T09:51:20.387Z",
+         "__v":0
+      },
+      {
+         "_id":"6748bdff2eb302396c60d08b",
+         "checkoutType":"option",
+         "name":"Aesthetic",
+         "icon":"https://mingalar.mcodey.com/static/images/0c2fa06098075f6a0441.png",
+         "description":"profile",
+         "termsCondition":"<p>Aesthetic clinic in Bangkok</p>",
+         "createdAt":"2024-11-28T19:01:19.589Z",
+         "updatedAt":"2024-12-29T09:51:11.672Z",
+         "__v":0
+      },
+      {
+         "_id":"6748e0da2eb302396c60d0c3",
+         "checkoutType":"direct",
+         "name":" Real Estate",
+         "icon":"https://mingalar.mcodey.com/static/images/ae32fb7fbc95edb4c702.png",
+         "description":" Real Estate",
+         "termsCondition":"<p>&nbsp;Real Estate</p>",
+         "createdAt":"2024-11-28T21:30:02.039Z",
+         "updatedAt":"2024-12-19T06:02:29.741Z",
+         "__v":0
+      },
+      {
+         "_id":"6748e1692eb302396c60d0d2",
+         "checkoutType":"inquery",
+         "name":"Jobs",
+         "icon":"https://mingalar.mcodey.com/static/images/af5e056eb614b8e76403.png",
+         "description":"profile",
+         "termsCondition":"<p>Job Opportunity&nbsp;</p>",
+         "createdAt":"2024-11-28T21:32:25.457Z",
+         "updatedAt":"2025-01-27T22:01:00.983Z",
+         "__v":0
+      }
+   ]
+}
