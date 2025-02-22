@@ -1,53 +1,74 @@
 {
-  "nouns": {
-    "people": [
-      { "japanese": "男 (おとこ)", "english": "Man", "myanmar": "ယောက်ျား", "thai": "ผู้ชาย (phûuchaai)" },
-      { "japanese": "女 (おんな)", "english": "Woman", "myanmar": "မိန်းမ", "thai": "ผู้หญิง (phûuyǐng)" },
-      { "japanese": "子供 (こども)", "english": "Child", "myanmar": "ကလေး", "thai": "เด็ก (dèk)" },
-      { "japanese": "先生 (せんせい)", "english": "Teacher", "myanmar": "ဆရာ/ဆရာမ", "thai": "ครู (kruu)" },
-      { "japanese": "学生 (がくせい)", "english": "Student", "myanmar": "ကျောင်းသား/သူ", "thai": "นักเรียน (nákriaan)" }
-    ],
-    "family": [
-      { "japanese": "父 (ちち)", "english": "Father", "myanmar": "အဖေ", "thai": "พ่อ (phâaw)" },
-      { "japanese": "母 (はは)", "english": "Mother", "myanmar": "အမေ", "thai": "แม่ (mɛ̂ɛ)" },
-      { "japanese": "兄弟 (きょうだい)", "english": "Sibling", "myanmar": "မောင်နှမ", "thai": "พี่น้อง (phîináawng)" },
-      { "japanese": "夫 (おっと)", "english": "Husband", "myanmar": "ခင်ပွန်း", "thai": "สามี (sǎamii)" },
-      { "japanese": "妻 (つま)", "english": "Wife", "myanmar": "ဇနီး", "thai": "ภรรยา (phanrayaa)" }
-    ],
-    "body_parts": [
-      { "japanese": "頭 (あたま)", "english": "Head", "myanmar": "ခေါင်း", "thai": "ศีรษะ (sǐisà)" },
-      { "japanese": "目 (め)", "english": "Eye", "myanmar": "မျက်စိ", "thai": "ตา (taa)" },
-      { "japanese": "口 (くち)", "english": "Mouth", "myanmar": "ပါးစပ်", "thai": "ปาก (pàak)" },
-      { "japanese": "手 (て)", "english": "Hand", "myanmar": "လက်", "thai": "มือ (mʉʉ)" },
-      { "japanese": "足 (あし)", "english": "Leg/Foot", "myanmar": "ခြေထောက်", "thai": "ขา/เท้า (khǎa/tháao)" }
-    ],
-    "food_drink": [
-      { "japanese": "ご飯 (ごはん)", "english": "Rice", "myanmar": "ထမင်း", "thai": "ข้าว (khâaw)" },
-      { "japanese": "水 (みず)", "english": "Water", "myanmar": "ရေ", "thai": "น้ำ (náam)" },
-      { "japanese": "牛乳 (ぎゅうにゅう)", "english": "Milk", "myanmar": "နို့", "thai": "นม (nom)" },
-      { "japanese": "パン (ぱん)", "english": "Bread", "myanmar": "ပေါင်မုန့်", "thai": "ขนมปัง (khanǒm pang)" },
-      { "japanese": "果物 (くだもの)", "english": "Fruit", "myanmar": "သစ်သီး", "thai": "ผลไม้ (phǒnlamáai)" }
-    ],
-    "animals": [
-      { "japanese": "犬 (いぬ)", "english": "Dog", "myanmar": "ခွေး", "thai": "หมา (mǎa)" },
-      { "japanese": "猫 (ねこ)", "english": "Cat", "myanmar": "ကြောင်", "thai": "แมว (mæw)" },
-      { "japanese": "鳥 (とり)", "english": "Bird", "myanmar": "ငှက်", "thai": "นก (nók)" },
-      { "japanese": "魚 (さかな)", "english": "Fish", "myanmar": "ငါး", "thai": "ปลา (plaa)" },
-      { "japanese": "牛 (うし)", "english": "Cow", "myanmar": "နွား", "thai": "วัว (wua)" }
-    ],
-    "places": [
-      { "japanese": "学校 (がっこう)", "english": "School", "myanmar": "ကျောင်း", "thai": "โรงเรียน (roong rian)" },
-      { "japanese": "病院 (びょういん)", "english": "Hospital", "myanmar": "ဆေးရုံ", "thai": "โรงพยาบาล (roong phayabaan)" },
-      { "japanese": "銀行 (ぎんこう)", "english": "Bank", "myanmar": "ဘဏ်", "thai": "ธนาคาร (thanaakhaan)" },
-      { "japanese": "空港 (くうこう)", "english": "Airport", "myanmar": "လေဆိပ်", "thai": "สนามบิน (sanǎam bin)" },
-      { "japanese": "公園 (こうえん)", "english": "Park", "myanmar": "ပန်းခြံ", "thai": "สวนสาธารณะ (sǔan sǎathǎarana)" }
-    ],
-    "time": [
-      { "japanese": "今日 (きょう)", "english": "Today", "myanmar": "ဒီနေ့", "thai": "วันนี้ (wan níi)" },
-      { "japanese": "明日 (あした)", "english": "Tomorrow", "myanmar": "မနက်ဖြန်", "thai": "พรุ่งนี้ (phrûng níi)" },
-      { "japanese": "昨日 (きのう)", "english": "Yesterday", "myanmar": "မနေ့က", "thai": "เมื่อวาน (mʉ̂a waan)" },
-      { "japanese": "時間 (じかん)", "english": "Time", "myanmar": "အချိန်", "thai": "เวลา (weelaa)" },
-      { "japanese": "週 (しゅう)", "english": "Week", "myanmar": "ရက်သတ္တပတ်", "thai": "สัปดาห์ (sàpdaa)" }
-    ]
-  }
+  "nouns": [
+    {
+      "category": "people",
+      "words": [
+        { "japanese": "男 (おとこ)", "english": "Man", "myanmar": "ယောက်ျား", "thai": "ผู้ชาย (phûuchaai)" },
+        { "japanese": "女 (おんな)", "english": "Woman", "myanmar": "မိန်းမ", "thai": "ผู้หญิง (phûuyǐng)" },
+        { "japanese": "子供 (こども)", "english": "Child", "myanmar": "ကလေး", "thai": "เด็ก (dèk)" },
+        { "japanese": "先生 (せんせい)", "english": "Teacher", "myanmar": "ဆရာ/ဆရာမ", "thai": "ครู (kruu)" },
+        { "japanese": "学生 (がくせい)", "english": "Student", "myanmar": "ကျောင်းသား/သူ", "thai": "นักเรียน (nákriaan)" }
+      ]
+    },
+    {
+      "category": "family",
+      "words": [
+        { "japanese": "父 (ちち)", "english": "Father", "myanmar": "အဖေ", "thai": "พ่อ (phâaw)" },
+        { "japanese": "母 (はは)", "english": "Mother", "myanmar": "အမေ", "thai": "แม่ (mɛ̂ɛ)" },
+        { "japanese": "兄弟 (きょうだい)", "english": "Sibling", "myanmar": "မောင်နှမ", "thai": "พี่น้อง (phîináawng)" },
+        { "japanese": "夫 (おっと)", "english": "Husband", "myanmar": "ခင်ပွန်း", "thai": "สามี (sǎamii)" },
+        { "japanese": "妻 (つま)", "english": "Wife", "myanmar": "ဇနီး", "thai": "ภรรยา (phanrayaa)" }
+      ]
+    },
+    {
+      "category": "body_parts",
+      "words": [
+        { "japanese": "頭 (あたま)", "english": "Head", "myanmar": "ခေါင်း", "thai": "ศีรษะ (sǐisà)" },
+        { "japanese": "目 (め)", "english": "Eye", "myanmar": "မျက်စိ", "thai": "ตา (taa)" },
+        { "japanese": "口 (くち)", "english": "Mouth", "myanmar": "ပါးစပ်", "thai": "ปาก (pàak)" },
+        { "japanese": "手 (て)", "english": "Hand", "myanmar": "လက်", "thai": "มือ (mʉʉ)" },
+        { "japanese": "足 (あし)", "english": "Leg/Foot", "myanmar": "ခြေထောက်", "thai": "ขา/เท้า (khǎa/tháao)" }
+      ]
+    },
+    {
+      "category": "food_drink",
+      "words": [
+        { "japanese": "ご飯 (ごはん)", "english": "Rice", "myanmar": "ထမင်း", "thai": "ข้าว (khâaw)" },
+        { "japanese": "水 (みず)", "english": "Water", "myanmar": "ရေ", "thai": "น้ำ (náam)" },
+        { "japanese": "牛乳 (ぎゅうにゅう)", "english": "Milk", "myanmar": "နို့", "thai": "นม (nom)" },
+        { "japanese": "パン (ぱん)", "english": "Bread", "myanmar": "ပေါင်မုန့်", "thai": "ขนมปัง (khanǒm pang)" },
+        { "japanese": "果物 (くだもの)", "english": "Fruit", "myanmar": "သစ်သီး", "thai": "ผลไม้ (phǒnlamáai)" }
+      ]
+    },
+    {
+      "category": "animals",
+      "words": [
+        { "japanese": "犬 (いぬ)", "english": "Dog", "myanmar": "ခွေး", "thai": "หมา (mǎa)" },
+        { "japanese": "猫 (ねこ)", "english": "Cat", "myanmar": "ကြောင်", "thai": "แมว (mæw)" },
+        { "japanese": "鳥 (とり)", "english": "Bird", "myanmar": "ငှက်", "thai": "นก (nók)" },
+        { "japanese": "魚 (さかな)", "english": "Fish", "myanmar": "ငါး", "thai": "ปลา (plaa)" },
+        { "japanese": "牛 (うし)", "english": "Cow", "myanmar": "နွား", "thai": "วัว (wua)" }
+      ]
+    },
+    {
+      "category": "places",
+      "words": [
+        { "japanese": "学校 (がっこう)", "english": "School", "myanmar": "ကျောင်း", "thai": "โรงเรียน (roong rian)" },
+        { "japanese": "病院 (びょういん)", "english": "Hospital", "myanmar": "ဆေးရုံ", "thai": "โรงพยาบาล (roong phayabaan)" },
+        { "japanese": "銀行 (ぎんこう)", "english": "Bank", "myanmar": "ဘဏ်", "thai": "ธนาคาร (thanaakhaan)" },
+        { "japanese": "空港 (くうこう)", "english": "Airport", "myanmar": "လေဆိပ်", "thai": "สนามบิน (sanǎam bin)" },
+        { "japanese": "公園 (こうえん)", "english": "Park", "myanmar": "ပန်းခြံ", "thai": "สวนสาธารณะ (sǔan sǎathǎarana)" }
+      ]
+    },
+    {
+      "category": "time",
+      "words": [
+        { "japanese": "今日 (きょう)", "english": "Today", "myanmar": "ဒီနေ့", "thai": "วันนี้ (wan níi)" },
+        { "japanese": "明日 (あした)", "english": "Tomorrow", "myanmar": "မနက်ဖြန်", "thai": "พรุ่งนี้ (phrûng níi)" },
+        { "japanese": "昨日 (きのう)", "english": "Yesterday", "myanmar": "မနေ့က", "thai": "เมื่อวาน (mʉ̂a waan)" },
+        { "japanese": "時間 (じかん)", "english": "Time", "myanmar": "အချိန်", "thai": "เวลา (weelaa)" },
+        { "japanese": "週 (しゅう)", "english": "Week", "myanmar": "ရက်သတ္တပတ်", "thai": "สัปดาห์ (sàpdaa)" }
+      ]
+    }
+  ]
 }
