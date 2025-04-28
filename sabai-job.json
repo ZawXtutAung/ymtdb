@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Software Developer",
+    "company": "TechNova Solutions",
+    "location": "Remote",
+    "experience": "2+ years",
+    "description": "We're seeking a skilled Software Developer with experience in Python, JavaScript, and RESTful APIs. You’ll work on scalable web applications in an agile environment.",
+    "apply": "careers@technova.com"
+  },
+  {
+    "title": "Marketing Coordinator",
+    "company": "BrightBrand Agency",
+    "location": "New York, NY",
+    "experience": "1-3 years",
+    "description": "Support marketing campaigns, content creation, and social media strategy. Ideal candidate is creative, organized, and has strong communication skills.",
+    "apply": "hr@brightbrand.com"
+  },
+  {
+    "title": "Registered Nurse (Night Shift)",
+    "company": "Hopewell Medical Center",
+    "location": "Dallas, TX",
+    "experience": "RN license required, 1+ year in hospital setting",
+    "description": "Provide compassionate care to patients, administer medications, and coordinate with medical staff.",
+    "apply": "careers@hopewellmed.com"
+  },
+  {
+    "title": "Sales Executive – B2B SaaS",
+    "company": "Clarity CRM",
+    "location": "Chicago, IL (Hybrid)",
+    "experience": "3+ years in software sales",
+    "description": "Drive new business development, manage sales pipelines, and close deals. Strong understanding of CRM tools a plus.",
+    "apply": "jobs@claritycrm.io"
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "PixelPush Studios",
+    "location": "Los Angeles, CA",
+    "experience": "Portfolio required, 2+ years in design",
+    "description": "Design digital graphics, social media assets, and marketing materials. Must be proficient in Adobe Creative Suite.",
+    "apply": "apply@pixelpush.com"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "DataVista Analytics",
+    "location": "Boston, MA (Remote optional)",
+    "experience": "2+ years, Excel + SQL required",
+    "description": "Analyze trends, develop dashboards, and provide insights for internal teams. Python or R is a bonus.",
+    "apply": "datajobs@datavista.com"
+  },
+  {
+    "title": "Customer Support Specialist",
+    "company": "HelpHero",
+    "location": "Remote (US Only)",
+    "experience": "Entry-level",
+    "description": "Assist users via email and chat, troubleshoot issues, and escalate complex queries. Must have strong communication skills.",
+    "apply": "supportcareers@helphero.com"
+  },
+  {
+    "title": "Human Resources Manager",
+    "company": "GreenCore Manufacturing",
+    "location": "Atlanta, GA",
+    "experience": "5+ years in HR",
+    "description": "Oversee recruitment, employee relations, and compliance. SHRM certification preferred.",
+    "apply": "hrdept@greencore.com"
+  },
+  {
+    "title": "Content Writer (Freelance)",
+    "company": "StoryScope Media",
+    "location": "Remote",
+    "experience": "1+ year in content writing",
+    "description": "Write blog posts, web content, and newsletters. SEO knowledge and portfolio required.",
+    "apply": "content@storyscope.co"
+  },
+  {
+    "title": "Mechanical Engineer",
+    "company": "AeroFlex Industries",
+    "location": "Detroit, MI",
+    "experience": "3+ years in mechanical design",
+    "description": "Work on product development, CAD modeling, and engineering testing. AutoCAD and SolidWorks experience a must.",
+    "apply": "engineering@aeroflexindustries.com"
+  }
+]
