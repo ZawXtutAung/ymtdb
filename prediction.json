@@ -1,0 +1,54 @@
+{
+  "status": true,
+  "message": "OK",
+  "data": [
+    {
+      "id": 201,
+      "league": "Bundesliga",
+      "league_logo": "https://rangertvs.com/storage/images/leagues/bundesliga.png",
+      "home": {
+        "name": "Bayern",
+        "logo": "https://rangertvs.com/storage/images/teams/bayern.png"
+      },
+      "away": {
+        "name": "Dortmund",
+        "logo": "https://rangertvs.com/storage/images/teams/dortmund.png"
+      },
+      "tip": "Home Win",
+      "confidence": 78,
+      "kickoff": "2026-05-30T18:30:00Z"
+    },
+    {
+      "id": 202,
+      "league": "Ligue 1",
+      "league_logo": "https://rangertvs.com/storage/images/leagues/ligue1.png",
+      "home": {
+        "name": "PSG",
+        "logo": "https://rangertvs.com/storage/images/teams/psg.png"
+      },
+      "away": {
+        "name": "Marseille",
+        "logo": "https://rangertvs.com/storage/images/teams/marseille.png"
+      },
+      "tip": "Over 2.5 Goals",
+      "confidence": 65,
+      "kickoff": "2026-05-30T20:00:00Z"
+    },
+    {
+      "id": 203,
+      "league": "Premier League",
+      "league_logo": "https://rangertvs.com/storage/images/leagues/epl.png",
+      "home": {
+        "name": "Liverpool",
+        "logo": "https://rangertvs.com/storage/images/teams/liverpool.png"
+      },
+      "away": {
+        "name": "Man City",
+        "logo": "https://rangertvs.com/storage/images/teams/mancity.png"
+      },
+      "tip": "Both Teams to Score",
+      "confidence": 71,
+      "kickoff": "2026-05-31T16:00:00Z"
+    }
+  ]
+}
