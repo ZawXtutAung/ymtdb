@@ -1,26 +1,30 @@
 {
-  "ads": [
+  "status": true,
+  "message": "OK",
+  "data": [
     {
-      "place": "home",
-      "isTimer": false,
-      "actionName": "open",
-      "adsType": "banner",
-      "status": "active",
-      "_id": "67b97fc40bb32e462d834344",
-      "name": "Redmi ",
-      "link": "https://www.facebook.com/XiaomiThailand",
-      "image": "https://api.mingalar.app/static/images/f25e1a100493dd441717.jpeg"
+      "id": 401,
+      "title": "Bet Smart, Win Big",
+      "subtitle": "Up to 200% welcome bonus",
+      "image_url": "https://rangertvs.com/storage/images/ads/welcome-bonus.jpg",
+      "url": "https://www.mcodey.com",
+      "sort_order": 0
     },
     {
-      "place": "home",
-      "isTimer": false,
-      "actionName": "open",
-      "adsType": "banner",
-      "status": "active",
-      "_id": "67d1776963fc6a8d840f9163",
-      "name": "Leo Supreme",
-      "link": "https://www.facebook.com/LEOSUPREMESOCIETY",
-      "image": "https://api.mingalar.app/static/images/a7e0bb047059e78dcf35.jpeg"
+      "id": 402,
+      "title": "Live Streaming HD",
+      "subtitle": "Never miss a match",
+      "image_url": "https://rangertvs.com/storage/images/ads/live-streaming.jpg",
+      "url": "https://www.mcodey.com/live",
+      "sort_order": 1
+    },
+    {
+      "id": 403,
+      "title": "Daily Predictions",
+      "subtitle": "Expert tips every day",
+      "image_url": "https://rangertvs.com/storage/images/ads/predictions.jpg",
+      "url": "https://t.me/Telekaung",
+      "sort_order": 2
     }
   ]
 }
