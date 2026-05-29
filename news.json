@@ -3,31 +3,49 @@
   "message": "OK",
   "data": [
     {
-      "id": 301,
-      "title": "Transfer window: Top 10 deals to watch this summer",
-      "summary": "From marquee signings to surprise moves, here are the transfers that could reshape the title race.",
-      "image_url": "https://rangertvs.com/storage/images/news/transfer-window.jpg",
-      "source": "RangerTV",
-      "url": "https://www.mcodey.com/news/transfer-window",
-      "published_at": "2026-05-29T13:30:00Z"
+      "id": 401,
+      "title": "Ballon d'Or ဆုပေးပွဲကို လန်ဒန်မြို့တွင် ပထမဆုံးအကြိမ် ကျင်းပမည်",
+      "summary": "၂၀၂၆ Ballon d'Or ဆုပေးပွဲကို အင်္ဂလန်နိုင်ငံ လန်ဒန်မြို့တွင် ပထမဆုံးအကြိမ် ကျင်းပသွားမည်ဖြစ်ပြီး ၇၀ နှစ်ပြည့်အထိမ်းအမှတ်အဖြစ် စီစဉ်ထားကြောင်း UEFA မှ အတည်ပြုခဲ့သည်။",
+      "image_url": "https://rangertvs.com/storage/images/news/ballondor-london.jpg",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sports/soccer/london-host-ballon-dor-first-time-award-marks-70th-anniversary-2026-05-28/",
+      "published_at": "2026-05-29T09:00:00Z"
     },
     {
-      "id": 302,
-      "title": "Champions League draw confirmed for the quarter-finals",
-      "summary": "The road to the final is set as Europe's elite discover their last-eight opponents.",
-      "image_url": "https://rangertvs.com/storage/images/news/ucl-draw.jpg",
-      "source": "RangerTV",
-      "url": "https://www.mcodey.com/news/ucl-draw",
-      "published_at": "2026-05-29T10:15:00Z"
+      "id": 402,
+      "title": "အာဆင်နယ်အသင်း Champions League ရရှိခဲ့লেও လူစာရင်းထပ်မံအားဖြည့်မည်",
+      "summary": "အာဆင်နယ်အသင်းပိုင်ရှင် Josh Kroenke က အသင်းအနေဖြင့် Champions League ဖလားရရှိခဲ့သော်လည်း လာမည့်ရာသီများအတွက် လူစာရင်းကို ဆက်လက်အားဖြည့်သွားမည်ဟု ပြောကြားခဲ့သည်။",
+      "image_url": "https://rangertvs.com/storage/images/news/arsenal-transfer.jpg",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/may/28/arsenal-owners-promise-to-strengthen-squad-even-if-double-is-achieved-in-budapest",
+      "published_at": "2026-05-29T08:30:00Z"
     },
     {
-      "id": 303,
-      "title": "Injury update: Star striker set to return next week",
-      "summary": "Medical staff confirm the forward has recovered ahead of schedule and could feature in the derby.",
-      "image_url": "https://rangertvs.com/storage/images/news/injury-update.jpg",
-      "source": "RangerTV",
-      "url": "https://www.mcodey.com/news/injury-update",
-      "published_at": "2026-05-28T16:00:00Z"
+      "id": 403,
+      "title": "Anthony Gordon ဘာစီလိုနာအသင်းသို့ ပြောင်းရွှေ့ရန် ဆေးစစ်မှု ပြီးစီး",
+      "summary": "နယူးကာဆယ်တောင်ပံကစားသမား Anthony Gordon သည် ဘာစီလိုနာအသင်းသို့ ပြောင်းရွှေ့ရန် ဆေးစစ်မှုများ ပြီးစီးခဲ့ပြီး ၅ နှစ်စာချုပ် ချုပ်ဆိုရန် နီးစပ်နေကြောင်း သိရသည်။",
+      "image_url": "https://rangertvs.com/storage/images/news/gordon-barca.jpg",
+      "source": "Barca Blaugranes",
+      "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/121873/im-very-happy-anthony-gordon-speaks-out-after-landing-in-barcelona-ahead-of-transfer",
+      "published_at": "2026-05-29T07:45:00Z"
+    },
+    {
+      "id": 404,
+      "title": "Tottenham အသင်း Marcos Senesi ကို ၄ နှစ်စာချုပ်ဖြင့် ခေါ်ယူရန် သဘောတူ",
+      "summary": "ဘုန်းမောက်နောက်ခံလူ Marcos Senesi သည် Tottenham Hotspur အသင်းသို့ ၄ နှစ်စာချုပ်ဖြင့် ပြောင်းရွှေ့ရန် သဘောတူညီမှု ရရှိထားကြောင်း သတင်းများထွက်ပေါ်လာသည်။",
+      "image_url": "https://rangertvs.com/storage/images/news/senesi-spurs.jpg",
+      "source": "TalkSport",
+      "url": "https://talksport.com/football/4292871/marcos-senesi-tottenham-transfer-deal-agreed/",
+      "published_at": "2026-05-29T06:50:00Z"
+    },
+    {
+      "id": 405,
+      "title": "ဂျူဗင်တပ်နှင့် အေစီမီလန် Champions League ဝင်ခွင့် လွဲချော်",
+      "summary": "စီးရီးအေထိပ်သီးအသင်းများဖြစ်သော ဂျူဗင်တပ်နှင့် အေစီမီလန်တို့သည် ၃၅ နှစ်နီးပါးအတွင်း ပထမဆုံးအကြိမ်အဖြစ် UEFA Champions League ဝင်ခွင့် မရရှိခဲ့ကြောင်း သိရသည်။",
+      "image_url": "https://rangertvs.com/storage/images/news/seriea-shock.jpg",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sports/soccer/seismic-shift-serie-milan-juventus-miss-champions-league-2026-05-25/",
+      "published_at": "2026-05-28T15:20:00Z"
     }
   ]
 }
