@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "message": "OK",
+  "data": [
+    {
+      "id": 1,
+      "title": "Funny Cat",
+      "description": "A lazy cat's daily misadventures in the city.",
+      "cover_image": "https://picsum.photos/seed/comic1/400/540",
+      "category_id": 1,
+      "is_featured": true
+    },
+    {
+      "id": 2,
+      "title": "Dragon Kid",
+      "description": "A young boy discovers he can talk to dragons.",
+      "cover_image": "https://picsum.photos/seed/comic2/400/540",
+      "category_id": 2,
+      "is_featured": true
+    },
+    {
+      "id": 3,
+      "title": "Street Hero",
+      "description": "A delivery rider becomes an unlikely neighborhood protector.",
+      "cover_image": "https://picsum.photos/seed/comic3/400/540",
+      "category_id": 3,
+      "is_featured": false
+    },
+    {
+      "id": 4,
+      "title": "Cafe Hearts",
+      "description": "Romance blooms between two baristas at a small cafe.",
+      "cover_image": "https://picsum.photos/seed/comic4/400/540",
+      "category_id": 4,
+      "is_featured": true
+    },
+    {
+      "id": 5,
+      "title": "School Days",
+      "description": "Warm stories from a countryside high school.",
+      "cover_image": "https://picsum.photos/seed/comic5/400/540",
+      "category_id": 5,
+      "is_featured": false
+    },
+    {
+      "id": 6,
+      "title": "Robot Buddy",
+      "description": "A broken robot becomes the funniest roommate ever.",
+      "cover_image": "https://picsum.photos/seed/comic6/400/540",
+      "category_id": 1,
+      "is_featured": false
+    },
+    {
+      "id": 7,
+      "title": "Moon Witch",
+      "description": "A witch runs a magic shop only open at night.",
+      "cover_image": "https://picsum.photos/seed/comic7/400/540",
+      "category_id": 2,
+      "is_featured": false
+    },
+    {
+      "id": 8,
+      "title": "Ninja Noodle",
+      "description": "A ninja chef protects his ramen shop from rivals.",
+      "cover_image": "https://picsum.photos/seed/comic8/400/540",
+      "category_id": 3,
+      "is_featured": false
+    },
+    {
+      "id": 9,
+      "title": "Rainy Letter",
+      "description": "Two strangers exchange letters only on rainy days.",
+      "cover_image": "https://picsum.photos/seed/comic9/400/540",
+      "category_id": 4,
+      "is_featured": false
+    },
+    {
+      "id": 10,
+      "title": "Village Morning",
+      "description": "Quiet mornings and funny neighbors in a small village.",
+      "cover_image": "https://picsum.photos/seed/comic10/400/540",
+      "category_id": 5,
+      "is_featured": false
+    }
+  ]
+}

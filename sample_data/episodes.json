@@ -1,0 +1,26 @@
+{
+  "status": true,
+  "message": "OK",
+  "data": [
+    { "id": 1, "comic_id": 1, "title": "Episode 1 - Hungry Morning", "episode_number": 1 },
+    { "id": 2, "comic_id": 1, "title": "Episode 2 - Cat vs Dog", "episode_number": 2 },
+    { "id": 3, "comic_id": 2, "title": "Episode 1 - The Egg", "episode_number": 1 },
+    { "id": 4, "comic_id": 2, "title": "Episode 2 - First Flight", "episode_number": 2 },
+    { "id": 5, "comic_id": 3, "title": "Episode 1 - Late Delivery", "episode_number": 1 },
+    { "id": 6, "comic_id": 3, "title": "Episode 2 - Alley Chase", "episode_number": 2 },
+    { "id": 7, "comic_id": 4, "title": "Episode 1 - First Shift", "episode_number": 1 },
+    { "id": 8, "comic_id": 4, "title": "Episode 2 - Rainy Afternoon", "episode_number": 2 },
+    { "id": 9, "comic_id": 5, "title": "Episode 1 - New Transfer", "episode_number": 1 },
+    { "id": 10, "comic_id": 5, "title": "Episode 2 - Sports Day", "episode_number": 2 },
+    { "id": 11, "comic_id": 6, "title": "Episode 1 - Power On", "episode_number": 1 },
+    { "id": 12, "comic_id": 6, "title": "Episode 2 - Update Failed", "episode_number": 2 },
+    { "id": 13, "comic_id": 7, "title": "Episode 1 - Open at Midnight", "episode_number": 1 },
+    { "id": 14, "comic_id": 7, "title": "Episode 2 - Lost Spell", "episode_number": 2 },
+    { "id": 15, "comic_id": 8, "title": "Episode 1 - Secret Broth", "episode_number": 1 },
+    { "id": 16, "comic_id": 8, "title": "Episode 2 - Rival Chef", "episode_number": 2 },
+    { "id": 17, "comic_id": 9, "title": "Episode 1 - First Letter", "episode_number": 1 },
+    { "id": 18, "comic_id": 9, "title": "Episode 2 - Umbrella Day", "episode_number": 2 },
+    { "id": 19, "comic_id": 10, "title": "Episode 1 - Market Day", "episode_number": 1 },
+    { "id": 20, "comic_id": 10, "title": "Episode 2 - Grandpa's Story", "episode_number": 2 }
+  ]
+}
